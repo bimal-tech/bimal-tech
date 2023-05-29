@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **H.T Solutions.**
 
-- 🌱 I’m currently learning **Domain Driven Design and Clean Code with Flutter.**
+- 🌱 I’m currently learning **Efficient development using Laravel Framework.**
 
 - 👯 I’m looking to collaborate on **any new project ideas.**
 
